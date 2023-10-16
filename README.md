@@ -7,7 +7,7 @@
 <b>Discipline | <b> Chemical Engineering
 :--|:--|
 <b> Lab | <b> **Chemical Process Dynamics Laboratory**
-<b> Experiment|     <b> **Stirred Tank Heater**
+<b> Experiment|     <b> **Polymerization reactor**
 
 
 ### About the Experiment 
