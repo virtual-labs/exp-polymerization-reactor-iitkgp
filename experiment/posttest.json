@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Decoder is a",
+      "question": "This set of Unit Processes Multiple Choice Questions & Answers (MCQs) focuses on “Methods of polymerization”. 1. Bulk polymerization requires which type of monomer?",
       "answers": {
-        "a": "sequential circuit",
-        "b": "complex circuit",
-        "c": "combinational circuit",
-        "d": "gate"
+        "a": "Gaseous",
+        "b": "Liquid",
+        "c": "Both gaseous and liquid",
+        "d": "None of the mentioned"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,46 @@
       "difficulty": "beginner"
     },
     {
-      "question": "IC decoders are made with?",
+      "question": "What is the disadvantage of bulk polymerization?",
       "answers": {
-        "a": "AND gate",
-        "b": "OR gate",
-        "c": "NAND gate",
-        "d": "XOR gate"
+        "a": "High temperature",
+        "b": "Heat control",
+        "c": "Need catalyst",
+        "d": "All of the mentioned"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What are the factors of solution polymerisation?",
+      "answers": {
+        "a": "Nature of solvent",
+        "b": "Concentration",
+        "c": "Temperature",
+        "d": "All of the mentioned"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the other name of ‘Pearl’ polymerisation?",
+      "answers": {
+        "a": "Emulsion",
+        "b": "Heterogeneous",
+        "c": "Suspension",
+        "d": "None of the mentioned"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +67,57 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Commercial production of polypropylene employs _________ polymerisation.",
+      "answers": {
+        "a": "Emulsion",
+        "b": "Suspension",
+        "c": "Solution",
+        "d": "Bulk"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Condensation of bisphenol A with phosgene produces _________ which possess very good heat resistance.",
+      "answers": {
+        "a": "Polyurethane",
+        "b": "Polysulfone",
+        "c": "Polycarbonate",
+        "d": "Polyester"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Condensation polymerisation is not involved in the manufacture of",
+      "answers": {
+        "a": "Teflon",
+        "b": "Polythene",
+        "c": "Terylene",
+        "d": "Nylon"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

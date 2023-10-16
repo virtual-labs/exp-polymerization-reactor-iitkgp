@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Encoders are made by three",
+      "question": "What is the principal feature of a polycondensation?",
       "answers": {
-        "a": "AND gate",
-        "b": "OR gate",
-        "c": "NAND gate",
-        "d": "XOR gate"
+        "a": "Stable intermediate",
+        "b": "Rate of condensation is independent",
+        "c": "All of the mentioned",
+        "d": "None of the mentioned"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How is the degree of polymerization of the polymer obtained?",
+      "answers": {
+        "a": "Termination/ Propagation",
+        "b": "Propagation/ Termination",
+        "c": "Propagation* Termination",
+        "d": "None of the mentioned"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A circuit that converts n inputs to 2^n outputs is called",
+      "question": "The kinetics of ionic polymerization has common principles with which polymerization?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Addition",
+        "b": "Pearl",
+        "c": "Free-radical",
+        "d": "Ion exchange"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +49,75 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which phenomena arise because of the requirements of thermodynamic equilibrium between two phases?",
+      "answers": {
+        "a": "Freezing-point depression",
+        "b": "Vapour-pressure drop",
+        "c": "Boiling-point elevation",
+        "d": "All of the mentioned"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Condensation polymerisation of _________ produces Bakelite.",
+      "answers": {
+        "a": "Propylene",
+        "b": "Phenol & formaldehyde",
+        "c": "Phenol & acetaldehyde",
+        "d": "Urea & formaldehyde"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Condensation polymerisation of caprolactam is carried out in the reactor maintained at a temperature of _________ °C for producing nylon-6.",
+      "answers": {
+        "a": "-20 to 25",
+        "b": "50 to 75",
+        "c": "100 to 150",
+        "d": "250-280"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Condensation polymerisation of formaldehyde with _________ does not produce phenolic resin.",
+      "answers": {
+        "a": "Resorcinol",
+        "b": "Phenol",
+        "c": "Para-cresol",
+        "d": "Melamine"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
