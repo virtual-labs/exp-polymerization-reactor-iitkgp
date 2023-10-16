@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This set of Unit Processes Multiple Choice Questions & Answers (MCQs) focuses on “Methods of polymerization”. 1. Bulk polymerization requires which type of monomer?",
+      "question": "Middle Steady state among multiple steady states is generally",
       "answers": {
-        "a": "Gaseous",
-        "b": "Liquid",
-        "c": "Both gaseous and liquid",
-        "d": "None of the mentioned"
+        "a": "unstable",
+        "b": "stable",
+        "c": "depends on time",
+        "d": "none of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "What is the disadvantage of bulk polymerization?",
+      "question": " In CSTR contents are",
       "answers": {
-        "a": "High temperature",
-        "b": "Heat control",
-        "c": "Need catalyst",
-        "d": "All of the mentioned"
+        "a": "well stirred throughout",
+        "b": "uniform throughout",
+        "c": "well stirred but not uniform",
+        "d": "well stirred and uniform throughout"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
