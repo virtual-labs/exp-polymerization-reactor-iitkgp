@@ -2,12 +2,80 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the principal feature of a polycondensation?",
+      "question": "Cstr works on the principle of:",
       "answers": {
-        "a": "Stable intermediate",
-        "b": "Rate of condensation is independent",
-        "c": "All of the mentioned",
+        "a": "Heat Transfer",
+        "b": "Mass transfer",
+        "c": "Both heat and mass transfer",
         "d": "None of the mentioned"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Accumulation of mass in the reactor is given by:",
+      "answers": {
+        "a": "Accumulation=[IN]-[Out]-[Generation]",
+        "b": "Accumulation=[IN]-[Out]+[Generation]",
+        "c": "Accumulation=[IN]+[Out]-[Generation]",
+        "d": "Accumulation=[Out]-[IN]+[Generation]"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Assumptions on which the CSTR works is/are:",
+      "answers": {
+        "a": "Uniform mixing of the cooling fluid and reactor fluid",
+        "b": "Heat transfer coefficient to the reactor jacket is constant",
+        "c": "Mean heat capacity is constant",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Arrhenius rate law k=Aexp(-Ea/RT) Ea represents.",
+      "answers": {
+        "a": "Frequency factor",
+        "b": "Activation energy",
+        "c": "Rate of the reaction",
+        "d": "Constant"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What do you understand by quasi steady state.",
+      "answers": {
+        "a": "A permanent steady state",
+        "b": "An unstable state",
+        "c": "A state where the reaction rests for predestined time and then jumps back to steady state.",
+        "d": "None of these"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +87,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "How is the degree of polymerization of the polymer obtained?",
+      "question": "Which of these sets can act as the control parameters of the polymerization of styrene?",
       "answers": {
-        "a": "Termination/ Propagation",
-        "b": "Propagation/ Termination",
-        "c": "Propagation* Termination",
-        "d": "None of the mentioned"
+        "a": "Feed rate of monomer,initiator,temperature of cooling fluid",
+        "b": "Activation energy of the reaction",
+        "c": "Density of reactor fluid and cooling fluid",
+        "d": "None of above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,33 +100,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "The kinetics of ionic polymerization has common principles with which polymerization?",
+      "question": "What do you understand by the term polymerization",
       "answers": {
-        "a": "Addition",
-        "b": "Pearl",
-        "c": "Free-radical",
-        "d": "Ion exchange"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Which phenomena arise because of the requirements of thermodynamic equilibrium between two phases?",
-      "answers": {
-        "a": "Freezing-point depression",
-        "b": "Vapour-pressure drop",
-        "c": "Boiling-point elevation",
-        "d": "All of the mentioned"
+        "a": "Two or more simple compounds react to form a complex molecule",
+        "b": "Two or more monomers react in a chemical reaction to form a large polymer",
+        "c": "The large molecule formed by reacting of simple molecules generally containg a repeating structure",
+        "d": "All of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -70,12 +121,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Condensation polymerisation of _________ produces Bakelite.",
+      "question": "What are the steps of the radical polymerization",
       "answers": {
-        "a": "Propylene",
-        "b": "Phenol & formaldehyde",
-        "c": "Phenol & acetaldehyde",
-        "d": "Urea & formaldehyde"
+        "a": "Termination-propagation-initiation",
+        "b": "Initiation-propagation-termination",
+        "c": "Initiation-termination-propagation",
+        "d": "Propagation-initiation-termination"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -87,12 +138,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Condensation polymerisation of caprolactam is carried out in the reactor maintained at a temperature of _________ °C for producing nylon-6.",
+      "question": "Heat transfer expression in the CSTR is given by",
       "answers": {
-        "a": "-20 to 25",
-        "b": "50 to 75",
-        "c": "100 to 150",
-        "d": "250-280"
+        "a": "Heat accumulation=[heat in]-[heat out]+[rate of heat generation]+[heat transfer]",
+        "b": "Heat accumulation=[heat out]-[heat in]+[rate of heat generation]+[heat transfer]",
+        "c": "Heat accumulation=[heat in]-[heat out]-[rate of heat generation]+[heat transfer]",
+        "d": "Heat accumulation=[heat in]-[heat out]+[rate of heat generation]-[heat transfer]"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -100,16 +151,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "Condensation polymerisation of formaldehyde with _________ does not produce phenolic resin.",
+      "question": "The order of the reaction of polymerization of styrene is",
       "answers": {
-        "a": "Resorcinol",
-        "b": "Phenol",
-        "c": "Para-cresol",
-        "d": "Melamine"
+        "a": "Zero",
+        "b": "First",
+        "c": "Third",
+        "d": "Second"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",

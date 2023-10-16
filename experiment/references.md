@@ -1,11 +1,6 @@
 ## References
 #### Books
-- Digital Principles and Applications, by Leach and Malvino.
-- Digital Logic Design, Leach, by Malvino, and Saha
-- Engineering Digital Design, by Richard F. Tinder.
-- Digital Logic and Computer Design, by M. Morris Mano
-- Digital Systems: Principles and Applications, Neal S. Widmer , Ronald J. Tocci , Gregory L. Moss
+- Amiya K. Jana, "Chemical Process Modelling and Computer Simulation", Prentice-Hall of India Private Limited, New Delhi (2008).
+- H. Scott Fogler, "Elements of Chemical Reaction Engineering", Prentice-Hall ofIndia Private Limited, New Delhi (2002).
+- Octave Levenspiel,"Chemical Reaction Engineering", Wiley India (P.) Ltd., New Delhi
 
-#### Video Lectures
-- [Encoders and Decoders](http://nptel.ac.in/courses/117106114)
-- [Encoders and Decoders](http://nptel.ac.in/courses/117106086)
