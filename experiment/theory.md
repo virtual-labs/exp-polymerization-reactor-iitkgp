@@ -37,7 +37,13 @@
 
 <br>The model of polystyrene polymerization which results is:</p>
 
-<p style="text-align:left; font-size:14px;">`(d[I])/dt=((Q_i[I_f]-Q_t[I])/V-k_d[I]),`&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(1)<br><br>`(d[M])/dt=((Q_m[M_f]-Q_t[M])/V-k_p[M][P]),`&nbsp&nbsp&nbsp&nbsp(2)<br><br>`(dT)/dt=(Q_t(T_f-T))/V+(-DeltaH_r)/(rhoC_p)xxk_p[M][P]` &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(3)<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`-(hA)/(rhoC_pV)xx(T-T_c)`,<br><br>`(dT_c)/dt=(Q_c(T_(cf)-T_c))/V_c+(hA)/(rho_cC_(pc)V_cxx(T-T_c)`,&nbsp&nbsp&nbsp&nbsp(4)<br><br>`[P]=[(2fk_d[I])/k_t]^(1/2)`,&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(5)</p>
+$$(d[I])/dt=((Q_i[I_f]-Q_t[I])/V-k_d[I]),`&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(1)$$
+$$(d[M])/dt=((Q_m[M_f]-Q_t[M])/V-k_p[M][P]),`&nbsp&nbsp&nbsp&nbsp(2)$$
+$$(dT)/dt=(Q_t(T_f-T))/V+(-DeltaH_r)/(rhoC_p)xxk_p[M][P]` &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(3)$$
+$$-(hA)/(rhoC_pV)xx(T-T_c)$$
+$$(dT_c)/dt=(Q_c(T_(cf)-T_c))/V_c+(hA)/(rho_cC_(pc)V_cxx(T-T_c)`,&nbsp&nbsp&nbsp&nbsp(4)$$
+$$[P]=2fk_d[I])/k_t]^(1/2)`,&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(5)$$
+
 <p style="text-align:left; font-size:18px; font-weight:bold;">Exponential growth phase</p>
 <p style="padding-bottom: 10px;">A = heat transfer area of CSTR,<br>
 
