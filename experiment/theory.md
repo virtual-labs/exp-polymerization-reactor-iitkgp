@@ -18,7 +18,7 @@
 <br><b>Heat capacity:</b> It characterizes the amount of heat required to change a substance’s temperature by a given amount.
 
 <br><b>Schematic diagram:</b><br><img src="images/11.jpg" alt="" width="624" height="334"></p>
-<p style="text-align:left; font-size:18px; font-weight:bold;">Assumptions</p>
+### Assumptions
 <p style="padding-bottom: 10px;">1. The lifetime of the polymer radical species is extremely short compares to other system time constants so that the quasi-steady-state approximation is valid.
 
 <br>2. The polymer propagation rate can be expressed by a single rate expression
@@ -37,8 +37,18 @@
 
 <br>The model of polystyrene polymerization which results is:</p>
 
-<p style="text-align:left; font-size:14px;">`(d[I])/dt=((Q_i[I_f]-Q_t[I])/V-k_d[I]),`&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(1)<br><br>`(d[M])/dt=((Q_m[M_f]-Q_t[M])/V-k_p[M][P]),`&nbsp&nbsp&nbsp&nbsp(2)<br><br>`(dT)/dt=(Q_t(T_f-T))/V+(-DeltaH_r)/(rhoC_p)xxk_p[M][P]` &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(3)<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`-(hA)/(rhoC_pV)xx(T-T_c)`,<br><br>`(dT_c)/dt=(Q_c(T_(cf)-T_c))/V_c+(hA)/(rho_cC_(pc)V_cxx(T-T_c)`,&nbsp&nbsp&nbsp&nbsp(4)<br><br>`[P]=[(2fk_d[I])/k_t]^(1/2)`,&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(5)</p>
-<p style="text-align:left; font-size:18px; font-weight:bold;">Exponential growth phase</p>
+$$\frac{d[I]}{dt}=(\frac{Q_i[I_f]-Q_t[I]}{V}-k_d[I])..................    (1)$$
+
+$$\frac{d[M]}{dt}=(\frac{Q_m[M_f]-Q_t[M]}{V}-k_p[M][P])................(2)$$
+
+$$\frac{dT}{dt}=\frac{Q_t(T_f-T)}{V}+\frac{-\Delta H_r}{\rho C_p} \ X \ k_p[M][P]-\frac{hA}{\rho C_pV}X(T-T_c)..........(3)$$
+
+$$\frac{dT_c}{dt}=\frac{Q_c(T_(cf)-T_c)}{V_c}+\frac{hA}{\rho_c C_{pc}V_c \ X \ (T-T_c)}.............(4)$$
+
+$$[P]=[\frac{2fk_d[I]}{k_t}]^\frac{1}{2}.....................(5)$$
+
+### Exponential growth phase
+
 <p style="padding-bottom: 10px;">A = heat transfer area of CSTR,<br>
 
 CD = mean heat capacity of reactor fluid,<br>
