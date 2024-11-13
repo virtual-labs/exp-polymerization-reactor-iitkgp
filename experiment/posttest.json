@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Middle Steady state among multiple steady states is generally",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "unstable",
+        "b": "stable",
+        "c": "depends on time",
+        "d": "none of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,46 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " In CSTR contents are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "well stirred throughout",
+        "b": "uniform throughout",
+        "c": "well stirred but not uniform",
+        "d": "well stirred and uniform throughout"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What are the factors of solution polymerisation?",
+      "answers": {
+        "a": "Nature of solvent",
+        "b": "Concentration",
+        "c": "Temperature",
+        "d": "All of the mentioned"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the other name of ‘Pearl’ polymerisation?",
+      "answers": {
+        "a": "Emulsion",
+        "b": "Heterogeneous",
+        "c": "Suspension",
+        "d": "None of the mentioned"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +67,57 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Commercial production of polypropylene employs _________ polymerisation.",
+      "answers": {
+        "a": "Emulsion",
+        "b": "Suspension",
+        "c": "Solution",
+        "d": "Bulk"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Condensation of bisphenol A with phosgene produces _________ which possess very good heat resistance.",
+      "answers": {
+        "a": "Polyurethane",
+        "b": "Polysulfone",
+        "c": "Polycarbonate",
+        "d": "Polyester"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Condensation polymerisation is not involved in the manufacture of",
+      "answers": {
+        "a": "Teflon",
+        "b": "Polythene",
+        "c": "Terylene",
+        "d": "Nylon"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
