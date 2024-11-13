@@ -17,7 +17,11 @@
 
 <br><b>Heat capacity:</b> It characterizes the amount of heat required to change a substance’s temperature by a given amount.
 
-<br><b>Schematic diagram:</b><br><img src="images/11.jpg" alt="" width="624" height="334"></p>
+<br><b>Schematic diagram:</b><br>
+<div align="center">
+<img src="images/11.jpg" alt="" width="624" height="334">
+</div>
+
 ### Assumptions
 <p style="padding-bottom: 10px;">1. The lifetime of the polymer radical species is extremely short compares to other system time constants so that the quasi-steady-state approximation is valid.
 
